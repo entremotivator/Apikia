@@ -1,7 +1,7 @@
 """API Helper Module for KIE.AI API Operations"""
 
 import requests
-from .unified_api import UnifiedKIEAPI, VIDEO_TEMPLATES, IMAGE_TEMPLATES
+from unified_api import UnifiedKIEAPI, VIDEO_TEMPLATES, IMAGE_TEMPLATES
 import time
 import json
 from typing import Optional, Dict, List
